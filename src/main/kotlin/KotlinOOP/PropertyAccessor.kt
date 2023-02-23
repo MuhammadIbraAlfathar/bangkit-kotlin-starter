@@ -36,7 +36,7 @@ class Animals{
 fun main() {
     val dicoding = Animals()
     println("Nama ${dicoding.name}")
-    dicoding.name = "Gooses"
+    dicoding.name = "Goossase"
     println("Nama ${dicoding.name}")
 }
 
